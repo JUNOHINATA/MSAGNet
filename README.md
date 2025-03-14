@@ -1,15 +1,3 @@
-
-# HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics
-
-### <img align=center src=./static/icons/project.png width='32'/> [Project](https://dolorousrtur.github.io/hood/) &ensp; <img align=center src=./static/icons/paper.png width='24'/> [Paper](https://arxiv.org/abs/2212.07242) &ensp;  
-
-This is a repository with training and inference code for the paper [**"HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics"**](https://arxiv.org/abs/2212.07242) (CVPR2023).
-
-*Latest update: 30.09.2023, added notebook and config for running inference with any mesh sequence or SMPL pose sequence from a garment mesh in arbitrary pose*
-
-## Installation
-
-
 ### Install conda enviroment
 We provide a conda environment file `hood.yml` to install all the dependencies. 
 You can create and activate the environment with the following commands:
@@ -102,20 +90,4 @@ using [this link](https://drive.google.com/file/d/1jFkDWPZW2HwYsYqcXAC3hX0NlumBn
 
 You can find instructions on how to generate validation sequences and compute metrics over them in the [ValidationSequences.ipynb](ValidationSequences.ipynb) notebook.
 
-
-
-## Repository structure
-See the [RepoIntro.md](RepoIntro.md) for more details on the repository structure.
-
-
-
-## Citation
-If you use this repository in your paper, please cite:
-```
-      @inproceedings{grigorev2022hood,
-      author = {Grigorev, Artur and Thomaszewski, Bernhard and Black, Michael J. and Hilliges, Otmar}, 
-      title = {{HOOD}: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics}, 
-      journal = {Computer Vision and Pattern Recognition (CVPR)},
-      year = {2023},
-      }
 ```
