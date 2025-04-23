@@ -1,3 +1,4 @@
+garment simulation
 ### Install conda enviroment
 We provide a conda environment file `hood.yml` to install all the dependencies. 
 You can create and activate the environment with the following commands:
