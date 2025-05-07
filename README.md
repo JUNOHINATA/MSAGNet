@@ -100,6 +100,8 @@ You can find instructions on how to generate validation sequences and compute me
 ## 说明
 根据inference.ipynb中的指示推理模型(请注意最好使用命令行进行渲染而不要使用改文件中的代码进行渲染).
 
+如要自行生成结果请将生成的pkl文件分解为服装模型和人体模型,再使用如blender等工具进行自定义渲染.
+
 根目录下的collision_penalty.py是修改后碰撞损失函数.
 
 评价指标.ipynb用于计算每顶点平均误差等指标.
