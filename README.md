@@ -93,11 +93,8 @@ You can find instructions on how to generate validation sequences and compute me
 
 ```
 效果展示图
-![sample1](./sample1.png)
-![sample2](./sample2.png)
-![sample3](./sample3.png)
-![sample4](./sample4.png)
-![sample5](./sample5.png)
+![image](./sample1.png)
+
 
 
 
