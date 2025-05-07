@@ -93,7 +93,7 @@ You can find instructions on how to generate validation sequences and compute me
 
 ```
 效果展示图
-![image](sample1.png)
+![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample1.png)
 
 
 
