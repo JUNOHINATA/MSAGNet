@@ -91,7 +91,6 @@ using [this link](https://drive.google.com/file/d/1jFkDWPZW2HwYsYqcXAC3hX0NlumBn
 
 You can find instructions on how to generate validation sequences and compute metrics over them in the [ValidationSequences.ipynb](ValidationSequences.ipynb) notebook.
 
-```
 ## 效果展示图
 ![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample1.png)
 
