@@ -98,7 +98,7 @@ You can find instructions on how to generate validation sequences and compute me
 ![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample5.png)
 
 ## 说明
-根据inference.ipynb中的指示推理模型
-根目录下的collision_penalty.py是修改后碰撞损失函数
+根据inference.ipynb中的指示推理模型.
+根目录下的collision_penalty.py是修改后碰撞损失函数.
 
 
