@@ -44,7 +44,7 @@ conda install ipykernel -y; python -m ipykernel install --user --name hood --dis
 #### HOOD data
 Download the auxiliary data for HOOD using this [link](https://drive.google.com/file/d/1RdA4L6Fy50VsKZ8k7ySp5ps5YtWoHSgs/view?usp=sharing).
 Unpack it anywhere you want and set the `HOOD_DATA` environmental variable to the path of the unpacked folder.
-Also, set the `HOOD_PROJECT` environmental variable to the path you cloned this repository to:
+Also, set the `HOOD_PROJECT` environmental variable to the path you cloned this repository to(在inference.ipynb中设置好自己对应的路径):
 
 ```bash
 export HOOD_DATA=/path/to/hood_data
@@ -54,7 +54,7 @@ export HOOD_PROJECT=/path/to/this/repository
 #### SMPL models
 Download the SMPL models using this [link](https://smpl.is.tue.mpg.de/). Unpack them into the `$HOOD_DATA/aux_data/smpl` folder.
 
-In the end your `$HOOD_DATA` folder should look like this:
+In the end your `$HOOD_DATA` folder should look like this(严格按照要求完成文件夹):
 ```
 $HOOD_DATA
     |-- aux_data
@@ -99,6 +99,7 @@ You can find instructions on how to generate validation sequences and compute me
 
 ## 说明
 根据inference.ipynb中的指示推理模型.
+
 根目录下的collision_penalty.py是修改后碰撞损失函数.
 
 
