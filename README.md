@@ -102,4 +102,5 @@ You can find instructions on how to generate validation sequences and compute me
 
 根目录下的collision_penalty.py是修改后碰撞损失函数.
 
+评价指标.ipynb用于计算每顶点平均误差等指标.
 
