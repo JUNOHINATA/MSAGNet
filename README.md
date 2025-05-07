@@ -93,11 +93,11 @@ You can find instructions on how to generate validation sequences and compute me
 
 ```
 效果展示图
-![fig1](./sample.png)
-![流程图4](https://github.com/user-attachments/assets/d89ec79f-91ad-414a-af0f-e175fb8bd76b)
-![流程图3](https://github.com/user-attachments/assets/8281807f-09cf-4966-a474-cc0cbd9444b6)
-![流程图2](https://github.com/user-attachments/assets/daa1b619-6288-46fc-bc0a-ac8cdb1f8213)
-![流程图1](https://github.com/user-attachments/assets/13319055-0a5a-4fc8-9d22-da6f748c721a)
-![流程图](https://github.com/user-attachments/assets/da71f3ff-5653-420e-905e-aef5a7dfb1fe)
+![sample1](./sample1.png)
+![sample2](./sample2.png)
+![sample3](./sample3.png)
+![sample4](./sample4.png)
+![sample5](./sample5.png)
+
 
 
