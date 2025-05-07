@@ -93,6 +93,10 @@ You can find instructions on how to generate validation sequences and compute me
 
 ## 效果展示图
 ![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample1.png)
+![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample2.png)
+![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample3.png)
+![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample4.png)
+![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample5.png)
 
 
 
