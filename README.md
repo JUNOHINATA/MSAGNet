@@ -97,6 +97,7 @@ You can find instructions on how to generate validation sequences and compute me
 ![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample4.png)
 ![image](https://github.com/JUNOHINATA/MSAGNet/blob/main/sample5.png)
 
-
+## 说明
+根据inference.ipynb中的指示推理模型
 
 
